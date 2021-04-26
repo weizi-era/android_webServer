@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_webServer</string>
+    <string name="start_server" >Start server</string>
+    <string name="stop_server" >Stop server</string>
+    <string name="start_browse" >Start browse</string>
+    <string name="server_stop_succeed" >Server stop succeed</string>
+    <string name="server_ip_error">Server ip error</string>
+</resources>
